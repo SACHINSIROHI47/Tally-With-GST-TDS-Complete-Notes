@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--ArborText, Inc., 1988-2002, v.4002-->
+<?APT Element gi="listingInfo"?>
+<?APT Element gi="ListingAddress"?>
+<?APT Element gi="StreetAddress"?>
+<?APT Element gi="ListingPrice"?>
+<?APT Element gi="LivingAreaSquareFootage"?>
+<?APT Element gi="Memo"?>
+<?Pub CX ?>
+<listingInfo><?Pub Caret1?> 	<ListingAddress> 		<StreetAddress>1234 ABC Lane</StreetAddress> 
+	<ListingPrice>175000</ListingPrice> 		<LivingAreaSquareFootage>1900</LivingAreaSquareFootage> 
+	<Memo>Colonial</Memo> 	</ListingAddress> 	<ListingAddress> 		<StreetAddress>2345 BCD Lane</StreetAddress> 		<ListingPrice>180000</ListingPrice> 		<LivingAreaSquareFootage>2100</LivingAreaSquareFootage> 
+	<Memo>Modern</Memo> 	</ListingAddress> 	<ListingAddress> 		<StreetAddress>3456 CDE Lane</StreetAddress> 		<ListingPrice>145000</ListingPrice> 		<LivingAreaSquareFootage>1800</LivingAreaSquareFootage> 
+	<Memo>Victorian</Memo> 	</ListingAddress></listingInfo>

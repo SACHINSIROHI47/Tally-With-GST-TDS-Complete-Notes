@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HandsOn title="Activity: Creating a Shared Workbook" href="Create Shared Workbook.swf">
+   <Milestone id="m1" audio="milestone_1_audio">
+      <milestoneText><![CDATA[<b>Share the workbook.</b>]]></milestoneText>
+
+      <guidedStep id="1">
+         <guidedText><![CDATA[On the Review tab, in the Changes group, <b>click Share Workbook.</b>]]></guidedText>
+      </guidedStep>
+
+      <guidedStep id="2">
+         <guidedText><![CDATA[In the Share Workbook dialog box, on the Editing tab, <b> check the Allow Changes By More Than One User At The Same Time check box.</b>]]></guidedText>
+      </guidedStep>
+
+      <guidedStep id="3">
+         <guidedText><![CDATA[<b>Select the Advanced tab.</b>]]></guidedText>
+      </guidedStep>
+
+      <guidedStep id="4">
+         <guidedText><![CDATA[In the Track Changes section, in the Keep Change History For text box, <b>double-click and type </b>
+            <b>
+               <i>15</i>
+            </b> to display the change history of the last 15 days.]]></guidedText>
+         <hintText actionSequence="2"><![CDATA[Type the number as indicated.]]></hintText>
+
+      </guidedStep>
+
+      <guidedStep id="5">
+         <guidedText><![CDATA[<b>Click OK.</b>]]></guidedText>
+      </guidedStep>
+
+      <guidedStep id="6">
+         <guidedText><![CDATA[In the Microsoft Office Excel warning box, <b>click OK</b> to save the workbook.]]></guidedText>
+      </guidedStep>
+
+   </Milestone>
+
+   <Milestone id="m2" audio="milestone_2_audio">
+      <milestoneText><![CDATA[<b>Place a copy of the file in the server.</b>]]></milestoneText>
+
+      <guidedStep id="7">
+         <guidedText><![CDATA[<b>Click the Office button, and choose Publish→Document Management Server.</b>]]></guidedText>
+      </guidedStep>
+
+      <guidedStep id="8">
+         <guidedText><![CDATA[In the Save As dialog box, <b>select the shared network folder, adexchangesrv and click Open.</b>]]></guidedText>
+      </guidedStep>
+
+      <guidedStep id="9">
+         <guidedText><![CDATA[<b>Double-click Shared Documents, and click Save</b> to save the document, and to place the copy on the server.]]></guidedText>
+      </guidedStep>
+
+   </Milestone>
+
+   <Milestone id="m3" audio="milestone_3_audio">
+      <milestoneText><![CDATA[<b>Open the gwillis shared workbook.</b>]]></milestoneText>
+
+      <guidedStep id="10">
+         <guidedText><![CDATA[<b>Click the Office button and choose Open.</b>]]></guidedText>
+      </guidedStep>
+
+      <guidedStep id="11">
+         <guidedText><![CDATA[<b>Double-click gwillis.</b>]]></guidedText>
+      </guidedStep>
+
+   </Milestone>
+
+   <Milestone id="m4" audio="milestone_4_audio">
+      <milestoneText><![CDATA[<b>Add a new employee to the open workbook.</b>]]></milestoneText>
+
+      <guidedStep id="12">
+         <guidedText><![CDATA[<b>Scroll down</b> and in cell A31, <b>type </b>
+            <b>
+               <i>Prestia</i>
+            </b>
+            <b> and press Tab.</b>]]></guidedText>
+         <hintText actionSequence="3"><![CDATA[Type the text as indicated and press Tab.]]></hintText>
+
+      </guidedStep>
+
+      <guidedStep id="13">
+         <guidedText><![CDATA[In cell B31, <b>type </b>
+            <b>
+               <i>Jaco</i>
+            </b>
+            <b> and press Tab.</b>]]></guidedText>
+         <hintText actionSequence="1"><![CDATA[Type the text as indicated and press Tab.]]></hintText>
+
+      </guidedStep>
+
+      <guidedStep id="14">
+         <guidedText><![CDATA[In cell C31, <b>type </b>
+            <b>
+               <i>Human Resources</i>
+            </b>
+            <b> and press Tab.</b>]]></guidedText>
+         <hintText actionSequence="1"><![CDATA[Type the text as indicated and press Tab.]]></hintText>
+
+      </guidedStep>
+
+      <guidedStep id="15">
+         <guidedText><![CDATA[In cell D31, <b>type </b>
+            <b>
+               <i>9f</i>
+            </b>
+            <b> and press Tab.</b>]]></guidedText>
+         <hintText actionSequence="1"><![CDATA[Type the text as indicated and press Tab.]]></hintText>
+
+      </guidedStep>
+
+      <guidedStep id="16">
+         <guidedText><![CDATA[In cell E31, <b>type </b>
+            <b>
+               <i>2699</i>
+            </b> and <b>press Enter.</b>]]></guidedText>
+         <hintText actionSequence="1"><![CDATA[Type the text as indicated and press Enter.]]></hintText>
+
+      </guidedStep>
+
+      <guidedStep id="17">
+         <guidedText><![CDATA[<b>Save the file as </b>
+            <b>
+               <i>gwillis updated.xlsx</i>
+            </b>
+            <b> and close it.</b>]]></guidedText>
+         <hintText actionSequence="3"><![CDATA[Type the text as indicated.]]></hintText>
+
+      </guidedStep>
+
+      <guidedStep id="18">
+         <guidedText><![CDATA[<b>Close phonelist.xlsx.</b>]]></guidedText>
+      </guidedStep>
+
+   </Milestone>
+
+</HandsOn>

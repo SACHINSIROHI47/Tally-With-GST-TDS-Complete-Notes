@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listingInfo>
+	<ListingAddress>
+		<StreetAddress>1234 ABC Lane</StreetAddress>
+		<ListingPrice>175000</ListingPrice>
+		<LivingAreaSquareFootage>1900</LivingAreaSquareFootage>
+		<Memo>Colonial</Memo>
+	</ListingAddress>
+	<ListingAddress>
+		<StreetAddress>2345
+BCD Lane</StreetAddress>
+		<ListingPrice>180000</ListingPrice>
+		<LivingAreaSquareFootage>2100</LivingAreaSquareFootage>
+		<Memo>Modern</Memo>
+	</ListingAddress>
+	<ListingAddress>
+		<StreetAddress>3456
+CDE Lane</StreetAddress>
+		<ListingPrice>145000</ListingPrice>
+		<LivingAreaSquareFootage>1800</LivingAreaSquareFootage>
+		<Memo>Victorian</Memo>
+	</ListingAddress>
+	<ListingAddress>
+		<StreetAddress>7891 EFG Road</StreetAddress>
+		<ListingPrice>275000</ListingPrice>
+		<LivingAreaSquareFootage>2200</LivingAreaSquareFootage>
+		<Memo>Colonial</Memo>
+	</ListingAddress>
+	<ListingAddress>
+		<StreetAddress>5678 HIJ Place</StreetAddress>
+		<ListingPrice>162000</ListingPrice>
+		<LivingAreaSquareFootage>1200</LivingAreaSquareFootage>
+		<Memo>Dome</Memo>
+	</ListingAddress>
+</listingInfo>

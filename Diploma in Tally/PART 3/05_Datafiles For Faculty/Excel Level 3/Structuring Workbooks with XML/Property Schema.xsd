@@ -1,0 +1,19 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <xsd:element name="listingInfo" type="listing"/>
+  
+  <xsd:complexType name="listing">
+    <xsd:sequence>
+      <xsd:element name="ListingAddress" minOccurs="0" maxOccurs="unbounded">
+	<xsd:complexType>    
+          <xsd:sequence>
+            <xsd:element name="StreetAddress" type="xsd:string"/>
+            <xsd:element name="ListingPrice" type="xsd:int"/>
+            <xsd:element name="LivingAreaSquareFootage" type="xsd:int"/>
+            <xsd:element name="Memo" type="xsd:string" minOccurs="0" maxOccurs="1"/>
+          </xsd:sequence>
+        </xsd:complexType>  
+     </xsd:element>
+   </xsd:sequence>
+ </xsd:complexType>
+</xsd:schema>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HandsOn title="Activity: Viewing a Permission-Restricted Workbook" href="View Permission Restricted Workbook.swf">
+   <Milestone id="m1" audio="milestone_1_audio">
+      <milestoneText><![CDATA[<b>View the permissions for the sales data workbook.</b>]]></milestoneText>
+
+      <guidedStep id="1">
+         <guidedText><![CDATA[In Windows Explorer, navigate to the C:\084892Data\Collaborating with Others folder and open quarterly sales.xlsx. This will be done for you.<br/>
+            <br/>>> Click Next to continue.]]></guidedText>
+      </guidedStep>
+
+      <guidedStep id="2">
+         <guidedText><![CDATA[In the Microsoft Office Excel message box that states that permission to the workbook is restricted, <b>click OK.</b>]]></guidedText>
+      </guidedStep>
+
+      <guidedStep id="3">
+         <guidedText><![CDATA[In the workbook, observe that a message bar is displayed below the Ribbon, indicating that the permission is restricted to the workbook.<br/>
+            <br/>>> Click Next to continue.]]></guidedText>
+      </guidedStep>
+
+      <guidedStep id="4">
+         <guidedText><![CDATA[On the message bar, <b>click View Permission</b> to display the My Permission dialog box.]]></guidedText>
+      </guidedStep>
+
+      <guidedStep id="5">
+         <guidedText><![CDATA[In the My Permission dialog box, observe that you have the permission to view, edit, copy, and save the workbook.<br/>
+            <br/>>> Click Next to continue.]]></guidedText>
+      </guidedStep>
+
+      <guidedStep id="6">
+         <guidedText><![CDATA[In the My Permission dialog box, <b>click OK.</b>]]></guidedText>
+      </guidedStep>
+
+   </Milestone>
+
+   <Milestone id="m2" audio="milestone_2_audio">
+      <milestoneText><![CDATA[<b>Change the Jazz music sales for March to 300.</b>]]></milestoneText>
+
+      <guidedStep id="7">
+         <guidedText><![CDATA[In the worksheet, <b>click cell D10.</b>]]></guidedText>
+      </guidedStep>
+
+      <guidedStep id="8">
+         <guidedText><![CDATA[In the selected cell, <b>delete the value and type </b>
+            <b>
+               <i>300</i>
+            </b>]]></guidedText>
+         <hintText actionSequence="1"><![CDATA[Press Delete.]]></hintText>
+
+         <hintText actionSequence="2"><![CDATA[Type the number as indicated.]]></hintText>
+
+      </guidedStep>
+
+      <guidedStep id="9">
+         <guidedText><![CDATA[<b>Save the workbook.</b>]]></guidedText>
+      </guidedStep>
+
+   </Milestone>
+
+</HandsOn>

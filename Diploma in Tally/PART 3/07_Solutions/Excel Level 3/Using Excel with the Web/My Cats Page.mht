@@ -1,0 +1,497 @@
+MIME-Version: 1.0
+X-Document-Type: Worksheet
+Content-Location: file:///C:/E8799145/MyCatsPage.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 12">
+<link rel=3DFile-List href=3D"MyCatsPage_files/filelist.xml">
+<style id=3D"Animals_14402_Styles"><!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.xl1514402
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Courier New", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6314402
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6414402
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Courier New", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6514402
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Courier New", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6614402
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6714402
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Courier New", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6814402
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Courier New", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6914402
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	background:silver;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7014402
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Courier New", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7114402
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Courier New", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"Short Date";
+	text-align:right;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7214402
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Courier New", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+--></style>
+<title>Robin's Pet Place - Purebred Cats Available</title>
+</head>
+
+<body>
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+<!--The following information was generated by Microsoft Office Excel's Pub=
+lish
+as Web Page wizard.-->
+<!--If the same item is republished from Excel, all information between the=
+ DIV
+tags will be replaced.-->
+<!----------------------------->
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+<!----------------------------->
+
+<div id=3D"Animals_14402" align=3Dcenter x:publishsource=3D"Excel">
+
+<h1 style=3D'color:black;font-family:"Courier New";font-size:14.0pt;font-we=
+ight:
+800;font-style:normal'>Robin's Pet Place - Purebred Cats Available</h1>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D663 style=3D'bord=
+er-collapse:
+ collapse;table-layout:fixed;width:499pt'>
+ <col width=3D162 style=3D'mso-width-source:userset;mso-width-alt:4147;widt=
+h:122pt'>
+ <col width=3D30 style=3D'mso-width-source:userset;mso-width-alt:768;width:=
+23pt'>
+ <col width=3D109 span=3D2 style=3D'mso-width-source:userset;mso-width-alt:=
+2790;
+ width:82pt'>
+ <col width=3D79 style=3D'mso-width-source:userset;mso-width-alt:2022;width=
+:59pt'>
+ <col width=3D62 style=3D'mso-width-source:userset;mso-width-alt:1587;width=
+:47pt'>
+ <col width=3D72 style=3D'mso-width-source:userset;mso-width-alt:1843;width=
+:54pt'>
+ <col width=3D40 style=3D'mso-width-source:userset;mso-width-alt:1024;width=
+:30pt'>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl6314402 width=3D162 style=3D'height:15.75pt;wid=
+th:122pt'>Robin's
+  Pet Place</td>
+  <td class=3Dxl6414402 width=3D30 style=3D'width:23pt'></td>
+  <td class=3Dxl1514402 width=3D109 style=3D'width:82pt'></td>
+  <td class=3Dxl1514402 width=3D109 style=3D'width:82pt'></td>
+  <td class=3Dxl1514402 width=3D79 style=3D'width:59pt'></td>
+  <td class=3Dxl6414402 width=3D62 style=3D'width:47pt'></td>
+  <td class=3Dxl1514402 width=3D72 style=3D'width:54pt'></td>
+  <td class=3Dxl1514402 width=3D40 style=3D'width:30pt'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl6314402 style=3D'height:15.75pt'>Northeast Regi=
+on</td>
+  <td class=3Dxl7014402></td>
+  <td class=3Dxl1514402></td>
+  <td class=3Dxl1514402></td>
+  <td class=3Dxl1514402></td>
+  <td class=3Dxl6414402></td>
+  <td class=3Dxl1514402></td>
+  <td class=3Dxl1514402></td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl6614402 style=3D'height:16.5pt'>Purebred Cats A=
+vailable</td>
+  <td class=3Dxl6814402>&nbsp;</td>
+  <td class=3Dxl6714402>&nbsp;</td>
+  <td class=3Dxl6714402>&nbsp;</td>
+  <td class=3Dxl6714402>&nbsp;</td>
+  <td class=3Dxl6814402>&nbsp;</td>
+  <td class=3Dxl6714402>&nbsp;</td>
+  <td class=3Dxl6714402>&nbsp;</td>
+ </tr>
+ <tr height=3D22 style=3D'height:16.5pt'>
+  <td height=3D22 class=3Dxl1514402 style=3D'height:16.5pt'></td>
+  <td class=3Dxl6414402></td>
+  <td class=3Dxl1514402></td>
+  <td class=3Dxl1514402></td>
+  <td class=3Dxl1514402></td>
+  <td class=3Dxl6414402></td>
+  <td class=3Dxl1514402></td>
+  <td class=3Dxl1514402></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl1514402 style=3D'height:15.75pt'></td>
+  <td class=3Dxl6414402></td>
+  <td class=3Dxl1514402></td>
+  <td class=3Dxl1514402></td>
+  <td class=3Dxl1514402></td>
+  <td class=3Dxl6414402></td>
+  <td class=3Dxl1514402></td>
+  <td class=3Dxl1514402></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl6914402 style=3D'height:15.75pt'>Breed</td>
+  <td class=3Dxl6914402>M/F</td>
+  <td class=3Dxl6914402>Born</td>
+  <td class=3Dxl6914402>Purchased</td>
+  <td class=3Dxl6914402>Breeder</td>
+  <td class=3Dxl6914402>Location</td>
+  <td class=3Dxl6914402>Store Cost</td>
+  <td class=3Dxl6914402>Price</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl1514402 style=3D'height:15.75pt'>Persian</td>
+  <td class=3Dxl6414402>F</td>
+  <td class=3Dxl6514402 align=3Dright>4/1/2006</td>
+  <td class=3Dxl6514402 align=3Dright>6/30/2006</td>
+  <td class=3Dxl7114402>Ferris</td>
+  <td class=3Dxl6414402>62</td>
+  <td class=3Dxl1514402 align=3Dright>200</td>
+  <td class=3Dxl1514402 align=3Dright>450</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl1514402 style=3D'height:15.75pt'>Calico</td>
+  <td class=3Dxl6414402>F</td>
+  <td class=3Dxl6514402 align=3Dright>3/3/2006</td>
+  <td class=3Dxl6514402 align=3Dright>5/23/2006</td>
+  <td class=3Dxl7114402>Rogers</td>
+  <td class=3Dxl6414402>78</td>
+  <td class=3Dxl1514402 align=3Dright>150</td>
+  <td class=3Dxl1514402 align=3Dright>250</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl1514402 style=3D'height:15.75pt'>Siamese</td>
+  <td class=3Dxl6414402>M</td>
+  <td class=3Dxl6514402 align=3Dright>3/3/2006</td>
+  <td class=3Dxl6514402 align=3Dright>5/23/2006</td>
+  <td class=3Dxl7214402>Clark</td>
+  <td class=3Dxl6414402>78</td>
+  <td class=3Dxl1514402 align=3Dright>350</td>
+  <td class=3Dxl1514402 align=3Dright>500</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl1514402 style=3D'height:15.75pt'>Siamese</td>
+  <td class=3Dxl6414402>M</td>
+  <td class=3Dxl6514402 align=3Dright>8/15/2006</td>
+  <td class=3Dxl6514402 align=3Dright>9/30/2006</td>
+  <td class=3Dxl7214402>Clark</td>
+  <td class=3Dxl6414402>35</td>
+  <td class=3Dxl1514402 align=3Dright>350</td>
+  <td class=3Dxl1514402 align=3Dright>500</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl1514402 style=3D'height:15.75pt'>Persian</td>
+  <td class=3Dxl6414402>F</td>
+  <td class=3Dxl6514402 align=3Dright>9/9/2006</td>
+  <td class=3Dxl6514402 align=3Dright>10/15/2006</td>
+  <td class=3Dxl7214402>Ferris</td>
+  <td class=3Dxl6414402>23</td>
+  <td class=3Dxl1514402 align=3Dright>200</td>
+  <td class=3Dxl1514402 align=3Dright>450</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl1514402 style=3D'height:15.75pt'>Ragdoll</td>
+  <td class=3Dxl6414402>M</td>
+  <td class=3Dxl6514402 align=3Dright>11/10/2006</td>
+  <td class=3Dxl6514402 align=3Dright>12/31/2006</td>
+  <td class=3Dxl7114402>Briggs</td>
+  <td class=3Dxl6414402>35</td>
+  <td class=3Dxl1514402 align=3Dright>450</td>
+  <td class=3Dxl1514402 align=3Dright>600</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl1514402 style=3D'height:15.75pt'>Calico</td>
+  <td class=3Dxl6414402>F</td>
+  <td class=3Dxl6514402 align=3Dright>3/18/2006</td>
+  <td class=3Dxl6514402 align=3Dright>5/31/2006</td>
+  <td class=3Dxl7114402>Rogers</td>
+  <td class=3Dxl6414402>62</td>
+  <td class=3Dxl1514402 align=3Dright>150</td>
+  <td class=3Dxl1514402 align=3Dright>250</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl1514402 style=3D'height:15.75pt'>Angora</td>
+  <td class=3Dxl6414402>M</td>
+  <td class=3Dxl6514402 align=3Dright>3/18/2006</td>
+  <td class=3Dxl6514402 align=3Dright>5/31/2006</td>
+  <td class=3Dxl7214402>Clark</td>
+  <td class=3Dxl6414402>18</td>
+  <td class=3Dxl1514402 align=3Dright>400</td>
+  <td class=3Dxl1514402 align=3Dright>550</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl1514402 style=3D'height:15.75pt'>Persian</td>
+  <td class=3Dxl6414402>M</td>
+  <td class=3Dxl6514402 align=3Dright>12/23/2004</td>
+  <td class=3Dxl6514402 align=3Dright>1/29/2004</td>
+  <td class=3Dxl7214402>Miller</td>
+  <td class=3Dxl6414402>35</td>
+  <td class=3Dxl1514402 align=3Dright>250</td>
+  <td class=3Dxl1514402 align=3Dright>450</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl1514402 style=3D'height:15.75pt'>Siamese</td>
+  <td class=3Dxl6414402>F</td>
+  <td class=3Dxl6514402 align=3Dright>3/8/2006</td>
+  <td class=3Dxl6514402 align=3Dright>6/2/2006</td>
+  <td class=3Dxl7214402>Clark</td>
+  <td class=3Dxl6414402>62</td>
+  <td class=3Dxl1514402 align=3Dright>350</td>
+  <td class=3Dxl1514402 align=3Dright>500</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl1514402 style=3D'height:15.75pt'>Ragdoll</td>
+  <td class=3Dxl6414402>F</td>
+  <td class=3Dxl6514402 align=3Dright>7/3/2006</td>
+  <td class=3Dxl6514402 align=3Dright>8/15/2006</td>
+  <td class=3Dxl7214402>Briggs</td>
+  <td class=3Dxl6414402>78</td>
+  <td class=3Dxl1514402 align=3Dright>450</td>
+  <td class=3Dxl1514402 align=3Dright>600</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl1514402 style=3D'height:15.75pt'>Persian</td>
+  <td class=3Dxl6414402>M</td>
+  <td class=3Dxl6514402 align=3Dright>10/19/2006</td>
+  <td class=3Dxl6514402 align=3Dright>12/16/2006</td>
+  <td class=3Dxl7214402>Ferris</td>
+  <td class=3Dxl6414402>78</td>
+  <td class=3Dxl1514402 align=3Dright>200</td>
+  <td class=3Dxl1514402 align=3Dright>450</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl1514402 style=3D'height:15.75pt'>Siamese</td>
+  <td class=3Dxl6414402>F</td>
+  <td class=3Dxl6514402 align=3Dright>12/17/2004</td>
+  <td class=3Dxl6514402 align=3Dright>1/31/2004</td>
+  <td class=3Dxl7214402>Clark</td>
+  <td class=3Dxl6414402>35</td>
+  <td class=3Dxl1514402 align=3Dright>350</td>
+  <td class=3Dxl1514402 align=3Dright>500</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl1514402 style=3D'height:15.75pt'>Angora</td>
+  <td class=3Dxl6414402>M</td>
+  <td class=3Dxl6514402 align=3Dright>3/29/2005</td>
+  <td class=3Dxl6514402 align=3Dright>6/3/2005</td>
+  <td class=3Dxl7214402>Grayson</td>
+  <td class=3Dxl6414402>18</td>
+  <td class=3Dxl1514402 align=3Dright>425</td>
+  <td class=3Dxl1514402 align=3Dright>550</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D162 style=3D'width:122pt'></td>
+  <td width=3D30 style=3D'width:23pt'></td>
+  <td width=3D109 style=3D'width:82pt'></td>
+  <td width=3D109 style=3D'width:82pt'></td>
+  <td width=3D79 style=3D'width:59pt'></td>
+  <td width=3D62 style=3D'width:47pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D40 style=3D'width:30pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+</body>
+
+</html>
+

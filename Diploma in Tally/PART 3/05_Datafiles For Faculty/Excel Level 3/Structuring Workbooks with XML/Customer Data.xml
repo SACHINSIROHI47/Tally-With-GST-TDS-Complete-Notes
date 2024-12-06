@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--ArborText, Inc., 1988-2002, v.4002-->
+<?APT Element gi="customerInfo"?>
+<?APT Element gi="CustAddress" attrs="cid discount recent"?>
+<?APT Element gi="name"?>
+<?APT Element gi="street"?>
+<?APT Element gi="city"?>
+<?APT Element gi="state"?>
+<?APT Element gi="country"?>
+<?APT Element gi="zip"?>
+<?Pub CX ?>
+<customerInfo>  <CustAddress cid="1" discount="true" recent="true">   <name>M<?Pub Caret?>aple
+Trindad</name>   <street>123 Oak Street</street>   <city>Anytown</city>   <state>New
+York</state>   <country>USA</country>   <zip>14546</zip>  </CustAddress><CustAddress
+cid="2" discount="true" recent="true">   <name>John Stone</name>   <street>456
+Crown Street</street>   <city>Anytown</city>   <state>California</state> 
+ <country>USA</country>   <zip>99999</zip>  </CustAddress><CustAddress cid="3"
+discount="true" recent="true">   <name>Cornelius Burgerhausen</name>   <street>789
+Willis Ave</street>   <city>Anytown</city>   <state>Maryland</state>   <country>USA</country> 
+ <zip>77777</zip>  </CustAddress></customerInfo>

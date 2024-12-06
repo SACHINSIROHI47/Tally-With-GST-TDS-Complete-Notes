@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customerInfo>
+	<CustAddress>
+		<name>Maple
+Trindad</name>
+		<street>123 Oak Street</street>
+		<state>New
+York</state>
+		<country>USA</country>
+	</CustAddress>
+	<CustAddress>
+		<name>John Stone</name>
+		<street>456
+Crown Street</street>
+		<state>California</state>
+		<country>USA</country>
+	</CustAddress>
+	<CustAddress>
+		<name>Cornelius Burgerhausen</name>
+		<street>789
+Willis Ave</street>
+		<state>Maryland</state>
+		<country>USA</country>
+	</CustAddress>
+</customerInfo>

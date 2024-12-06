@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HandsOn title="Activity: Restricting Document Access" href="Restrict Access.swf">
+   <Milestone id="m1" audio="milestone_1_audio">
+      <milestoneText><![CDATA[<b>Set the restrict change permission only to Betsy Allan, to quarterly sales.xlsx.</b>]]></milestoneText>
+
+      <guidedStep id="1">
+         <guidedText><![CDATA[<b>Click the Office button and choose Prepare→Restrict Permission→Manage Credentials.</b>]]></guidedText>
+      </guidedStep>
+
+      <guidedStep id="2">
+         <guidedText><![CDATA[In the Select User dialog box, <b>verify that your user account is displayed and click OK.</b>]]></guidedText>
+      </guidedStep>
+
+      <guidedStep id="3">
+         <guidedText><![CDATA[In the Permission dialog box, <b>check the Restrict Permission To This Workbook check box.</b>]]></guidedText>
+      </guidedStep>
+
+      <guidedStep id="4">
+         <guidedText><![CDATA[In the Change text box, <b>type </b>
+            <b>
+               <i>betsyallan@xchg.com</i>
+            </b> to grant change permission to the manager.]]></guidedText>
+         <hintText actionSequence="2"><![CDATA[Type the text as indicated.]]></hintText>
+
+      </guidedStep>
+
+   </Milestone>
+
+   <Milestone id="m2" audio="milestone_2_audio">
+      <milestoneText><![CDATA[<b>Set an expiration date for the workbook.</b>]]></milestoneText>
+
+      <guidedStep id="5">
+         <guidedText><![CDATA[In the Permission dialog box, <b>click More Options</b> to display advanced permission options.]]></guidedText>
+      </guidedStep>
+
+      <guidedStep id="6">
+         <guidedText><![CDATA[In the Additional Permissions For Users section, <b>check the This Workbook Expires On check box.</b>]]></guidedText>
+      </guidedStep>
+
+      <guidedStep id="7">
+         <guidedText><![CDATA[In the This Workbook Expires On text box, <b>triple-click and type </b>
+            <b>
+               <i>5/6/2007</i>
+            </b> to set the expiration date and <b>click OK.</b>]]></guidedText>
+         <hintText actionSequence="2"><![CDATA[Type the date as indicated.]]></hintText>
+
+      </guidedStep>
+
+      <guidedStep id="8">
+         <guidedText><![CDATA[Save the file.]]></guidedText>
+      </guidedStep>
+
+   </Milestone>
+
+</HandsOn>

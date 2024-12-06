@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	
+	<xs:element name="Listing">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="StreetAddress"/>
+				<xs:element name="ListingPrice"/>
+				<xs:element name="LivingArea"/>
+				<xs:element name="Memo" minOccurs="0" maxOccurs="1"/>
+				<xs:element name="AgentDescription" minOccurs="1" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+</xs:schema>
